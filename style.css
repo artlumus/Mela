@@ -1,0 +1,128 @@
+			body {
+				background-color:#ffffff;
+                color:#8F3B3A;
+            }         
+			#container{
+                width: 1400px;
+                font-family: 'Zen Kurenaido', sans-serif;
+                margin-left:auto;
+				margin-right:auto;
+				margin-top:0;
+            }
+            .start{
+                background-color:#c3a992;
+            }
+            h1 {
+				text-align:center;
+				font-size: 40px;
+				padding-top:20px;
+			}
+            h1 a {
+                color: #76323f;                
+                font-family: 'Catamaran', sans-serif;
+				text-decoration: none;
+            }
+            
+            .topnav {
+                overflow: hidden;
+            }
+            /*navbar links*/
+            .topnav a {
+				float: left;
+				display: block;
+				text-align: center;
+				width: 20%;
+				padding-top: 20px;
+				padding-bottom: 20px;
+				text-decoration: none;
+				font-size: 20px;
+				font-size: 20px;
+				color:#423e4f;
+            }
+            .topnav a:hover {
+				background-color: #bb9e84;				
+				color:#454056;
+            }
+            li {
+				display: inline;
+            }
+            #content {
+                color:rgb(56, 5, 38);
+                padding:10px;
+                text-align: center;
+                align-items: center;
+				min-height:500px;
+            }            
+            #footer {
+                clear:both;
+                background-color: #e1d4c8;
+                color:#bb9e84;
+                padding: 5px;
+                text-align: center;
+				position: fixed;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+			}
+            div.gallery {
+                margin: 5px;
+                float: left;
+				height: 310px;
+				
+				
+            }
+            div.gallery img {
+                width: auto;
+				max-width:100%;
+                height: 250px;
+				width:180px;
+				object-fit:cover;
+            }
+			
+			img {
+				max-width:100%;
+			}
+
+            div.desc {
+                padding: 15px;
+                text-align: center;
+            }
+			div#mainphoto {
+				margin: auto;
+			}
+
+			.txtunderpic {
+				font-size: 18px;
+			}
+			#contact {
+				font-size: 18px;
+				text-align: center;
+			}
+			#math{
+				margin:30px;
+				font-size: 15px;
+			}
+			
+			.questions{
+				float:left;
+				margin: 15px;
+				border: 3px solid grey;
+				padding: 10px;
+				width: 388px;
+				height:200px;
+				color:
+			}
+			h3{
+				padding: 10px;
+				font-weight:100;
+				font-size:18px;
+			}
+			
+			#results
+			{
+				margin:7px;
+			}
+			
+			input {
+				margin:7px;
+			}
